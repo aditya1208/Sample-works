@@ -6,4 +6,4 @@ Grocery list sample app can do the following:
 2. Delete existing items.
 3. Search from the existing items.
 
-View the demo [HERE](http://aditya1208.github.io/sampleangular)
+View the demo [HERE](http://aditya1208.github.io)
